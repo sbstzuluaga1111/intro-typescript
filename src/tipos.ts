@@ -37,7 +37,7 @@ console.log(typeof artemisSigned);
 artemisSigned = 10
 console.log(typeof artemisSigned);
 
-//object (array)
+
 
 //funtion
 
